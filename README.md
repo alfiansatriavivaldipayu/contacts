@@ -1,3 +1,3 @@
 # Please wait ...
 
-<meta http-equiv="refresh" content="3; url=https://asvp.my.id/contacts"/>
+<meta http-equiv="refresh" content="3; url=https://api.whatsapp.com/send?phone=6285646485935&text=Assalamu%27alaikum+Warohmatullohi+Wabarokaatuh"/>
